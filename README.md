@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2>  Github-G1 </h2>
+  <h2>  G1-Git and GitHub </h2>
 </div>
 
 Welcome to the SURE Trust G1 Github repository. This repository serves as a central hub for all materials and resources related to the training course during the eleventh batch of training Github Training course.
