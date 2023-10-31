@@ -15,4 +15,4 @@
  
 - Happy Faces :)
   
-     <img width="727" alt="image" src="https://github.com/trishas18/G1_Git_and_GitHub/blob/main/assets/gp.jpg">
+     
