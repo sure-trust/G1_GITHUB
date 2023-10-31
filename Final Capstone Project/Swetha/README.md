@@ -1,5 +1,4 @@
-/home/rgukt/Documents/GitHub/G1_GITHUB/Mini Projects/Swetha/README.md
-
+![Git](https://github.com/sure-trust/G1_Git_and_GitHub/assets/140942003/132b4811-a596-4a6f-8b53-d8bc3a101f04)
 Name:Palla Swetha
 People Taught-Pavani
 Experience-
