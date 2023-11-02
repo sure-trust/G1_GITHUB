@@ -6,7 +6,7 @@
 
 
 <h3 align="center">SURE Trust - Skill Upgradation for Rural-youth Empowerment Trust</h3>
-  <h2> GIT AND GITHUB </h2>
+  <h2> Git and Github </h2>
 </div>
 
 # Course Report
@@ -15,7 +15,7 @@
 
 ## Qualifications: [BCA COMPLETED]
 
-Welcome to the course report for the [GIT AND GITHUB]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the [Git and Github]! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
