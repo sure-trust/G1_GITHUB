@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: About Fast forward merge     |[clickhere] (https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Pallavi)                         |
+| Mini Projects: About Fast forward merge     |[clickhere](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Pallavi)                         |
 | Final Project: Experience about Github helping session     | [clickhere](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Final%20Capstone%20Project/Pallavi)                         |
