@@ -23,5 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: Fast Forward Merge     | [link](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Dev)                         |
+| Mini Project 1: Fast Forward Merge     | [link](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Mini%20Projects/Dev/README.md)                         |
+| Mini Project 2: Clone, Push, Fetch, Pull     | [link](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Mini%20Projects/Dev/Mini_project_2.md)                         |
 | Final Project: Project Submission Tutorial at SURE Trust     | [Link](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Final%20Capstone%20Project/Dev)                         |
