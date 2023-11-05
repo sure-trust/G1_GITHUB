@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Fast Forward Merge]     | [click here](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Swetha)                       |
-                 [Clone Push Fetch Merge]   |[click here](https://github.com/PallaSwetha/G1_GITHUB/blob/main/Mini%20Projects/Swetha/miniproject2.md)
+| Mini Project1: [Fast Forward Merge]     | [click here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Mini%20Projects/Swetha/miniproject1.md)                       |
+|Mini Project2:  [Clone Push Fetch Merge]   | [click here](https://github.com/PallaSwetha/G1_GITHUB/blob/main/Mini%20Projects/Swetha/miniproject2.md)
 | Final Project: [My experience for Teaching on project submission through GitHub ]     | [click here](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Final%20Capstone%20Project/Swetha)                      |
