@@ -23,5 +23,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [ fast-forward merge from the feature branch into the main branch.]     | [click here] (https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Trisha)                        |
-| Final Project: [Explained the  github topics to the students which helped the students to make pullrequest and submission of their miniproject and final project]     | [click here] (https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Final%20Capstone%20Project/Trisha)                      |
+| Mini Projects: [ fast-forward merge from the feature branch into the main branch.]     | [click here](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Mini%20Projects/Trisha)                        |
+| Final Project: [Explained the  github topics to the students which helped the students to make pullrequest and submission of their miniproject and final project]     | [click here](https://github.com/sure-trust/G1_Git_and_GitHub/tree/main/Final%20Capstone%20Project/Trisha)                      |
