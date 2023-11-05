@@ -19,6 +19,14 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the Github Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/65)
 
+|Student name | Link |
+|-------------|------|
+|Dev|[Click Here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Course%20Report/Dev_Chadha.md)|
+|Mamatha|[Click Here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Course%20Report/Mamatha_Reddy.md)|
+|Pallavi|[Click Here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Course%20Report/Pallavi.md)|
+|Swetha|[Click Here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Course%20Report/Palla_Swetha.md)|
+|Trisha|[Click Here](https://github.com/sure-trust/G1_Git_and_GitHub/blob/main/Course%20Report/Trisha%20S.md)|
+
 ## Repository Description
 
 This repository is designed to support the G1 Github program at SURE Trust. It follows the below mentioned organization structure:
