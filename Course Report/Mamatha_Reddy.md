@@ -11,11 +11,11 @@
 
 # Course Report
 
-## Name: [MITTAPALLI MAMATHA REDDY]
+## Name: MITTAPALLI MAMATHA REDDY
 
-## Qualifications: [BCA COMPLETED]
+## Qualifications: BCA COMPLETED
 
-Welcome to the course report for the [Git and Github]! This README document provides an overview of the course, its mini projects and final project.
+Welcome to the course report for the Git and Github! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
 
